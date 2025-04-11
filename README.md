@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hola, soy AdrianMP-02!
 
-<!--
-**AdrianMP-02/AdrianMP-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Este es un espacio donde comparto mis proyectos, ideas y mi pasión por la tecnología. Actualmente, estoy trabajando en un proyecto emocionante llamado **Proyecto**. Aquí tienes más información sobre mí:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías & Herramientas
+- **Lenguajes Principales en Este Repo**:
+  - **JavaScript**: 56.3%
+  - **CSS**: 23.6%
+  - **EJS**: 20.1%
+- **Herramientas y Frameworks**: Node.js, Express, Bootstrap
+- **DevOps**: GitHub Actions
+- **Bases de Datos**: MySQL
+
+---
+
+## 🌟 Proyecto Destacado
+### [Proyecto](https://github.com/AdrianMP-02/Proyecto)
+Un proyecto desarrollado con JavaScript, CSS y EJS que combina lo mejor del diseño dinámico y la funcionalidad web. ¡Explora el repositorio para más detalles!
+
+---
+
+## 🌱 Qué Estoy Aprendiendo
+- Desarrollo de front-end avanzado con React
+- Técnicas de optimización y rendimiento web
+- Implementación de sistemas de autenticación segura
+
+---
+
+## 📈 Estadísticas de GitHub
+![Estadísticas de AdrianMP-02](https://github-readme-stats.vercel.app/api?username=AdrianMP-02&show_icons=true&theme=tokyonight)
+
+---
+
+## 💬 ¡Conectemos!
+- 📧 Email: [adrian.m.p.02022002@gmail.com](mailto:adrian.m.p.02022002@gmail.com)
+
+---
+
+## 🎯 Dato Curioso
+Cuando no estoy programando, me encanta:
+- Experimentar con diseño UI/UX
+- Jugar videojuegos de estrategia o explorar la naturaleza
+
+---
+
+Gracias por visitar mi perfil. Siéntete libre de explorar mis repositorios y colaborar en proyectos. ¡Hagamos algo increíble juntos! 🚀
