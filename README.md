@@ -16,7 +16,7 @@ Bienvenido a mi perfil de GitHub. Este es un espacio donde comparto mis proyecto
 ---
 
 ## 🌟 Proyecto Destacado
-### [Proyecto](https://github.com/AdrianMP-02/Proyecto)
+### [Proyecto](https://github.com/AdrianMP-02/ProyectFlow)
 Un proyecto desarrollado con JavaScript, CSS y EJS que combina lo mejor del diseño dinámico y la funcionalidad web. ¡Explora el repositorio para más detalles!
 
 ---
