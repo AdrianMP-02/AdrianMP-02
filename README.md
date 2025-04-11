@@ -29,7 +29,7 @@ Un proyecto desarrollado con JavaScript, CSS y EJS que combina lo mejor del dise
 ---
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de AdrianMP-02](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+![Estadísticas de AdrianMP-02](https://github-readme-stats.vercel.app/api?username=AdrianMP-02&show_icons=true&theme=dark)
 
 ---
 
