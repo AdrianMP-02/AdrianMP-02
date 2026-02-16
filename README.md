@@ -4,7 +4,6 @@
 <div align="center">
   <!-- Stats Badges (Ultra estables) -->
   <img src="https://img.shields.io/github/followers/AdrianMP-02?label=Followers&style=for-the-badge&color=24292e&logo=github" />
-  <img src="https://img.shields.io/github/repos/all/AdrianMP-02?label=Repositories&style=for-the-badge&color=24292e&logo=github" />
   <img src="https://img.shields.io/github/stars/AdrianMP-02?label=Total%20Stars&style=for-the-badge&color=24292e&logo=github" />
 </div>
 
