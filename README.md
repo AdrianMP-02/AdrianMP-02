@@ -38,10 +38,6 @@
 - **Enfoque**: SOLID, Desacoplamiento de infraestructura y alto rendimiento (Redis).
 - **Status**: ![Production Ready](https://img.shields.io/badge/Status-Production--Ready-brightgreen?style=flat-square)
 
-### 🌊 [ProyectFlow](https://github.com/AdrianMP-02/ProyectFlow)
-**Gestión inteligente con interfaz dinámica.**
-- **Stack**: JS + CSS + EJS (Bootstrap).
-- **Visual**: ![Responsive Design](https://img.shields.io/badge/Design-Responsive-blue?style=flat-square)
 
 ---
 
